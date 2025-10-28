@@ -71,7 +71,7 @@ AVERAGE('Sheet1'[ParticipariaNumerico]) * 100
 
 🖼️ Preview:  
 
-![Página Principal](screenshots/analise_estatistica_cursos_online/principal.png)
+![Página Principal](./screenshots/analise_estatistica_cursos_online/principal.png)
 
 ---
 
@@ -85,7 +85,7 @@ AVERAGE('Sheet1'[ParticipariaNumerico]) * 100
 
 🖼️ Preview:  
 
-![Página Personificação](screenshots/analise_estatistica_cursos_online/personificacao.png)
+![Página Personificação](./screenshots/analise_estatistica_cursos_online/personificacao.png)
 
 ---
 
@@ -100,7 +100,8 @@ AVERAGE('Sheet1'[ParticipariaNumerico]) * 100
 
 🖼️ Preview: 
 
-![Página Avaliação](screenshots/analise_estatistica_cursos_online/avaliacao.png)
+![Página Avaliação](./screenshots/analise_estatistica_cursos_online/avaliacao.png)
+
 ---
 
 ## 🧩 Recursos Utilizados
