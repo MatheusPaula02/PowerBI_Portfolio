@@ -1,4 +1,8 @@
-# 📊 Análise e Estatística - Cursos Online
+# 📊 Dashboards Desenvolvidas
+
+---
+
+## 🧮 Análise e Estatística - Cursos Online
 
 Dashboard desenvolvido em **Power BI** com o objetivo de analisar dados de uma pesquisa sobre cursos online, comportamento de aprendizado e perfil dos respondentes.  
 O relatório utiliza **métricas estatísticas (Média e Moda)**, segmentações dinâmicas e medidas DAX para gerar insights sobre comportamento e percepção dos usuários.
@@ -7,7 +11,7 @@ O relatório utiliza **métricas estatísticas (Média e Moda)**, segmentações
 
 ---
 
-## 🧠 Objetivo
+### 🧠 Objetivo
 Avaliar o perfil dos respondentes em relação a:
 - Faixa etária, renda e situação profissional  
 - Familiaridade com plataformas de aprendizado  
@@ -16,7 +20,7 @@ Avaliar o perfil dos respondentes em relação a:
 
 ---
 
-## ⚙️ Principais Métricas (DAX)
+### ⚙️ Principais Métricas (DAX)
 
 ```DAX
 -- Moda da Avaliação do Formulário
@@ -59,9 +63,9 @@ AVERAGE('Sheet1'[ParticipariaNumerico]) * 100
 
 ---
 
-## 📈 Páginas e Visualizações
+### 📈 Páginas e Visualizações
 
-### 1️⃣ **Página Principal**
+#### 1️⃣ **Página Principal**
 - **Indicadores**: Moda da plataforma de aprendizado e importância dos cursos para o mercado.  
 - **Gráficos utilizados**:  
   - Barras empilhadas (familiaridade com plataformas)  
@@ -75,7 +79,7 @@ AVERAGE('Sheet1'[ParticipariaNumerico]) * 100
 
 ---
 
-### 2️⃣ **Página de Personificação**
+#### 2️⃣ **Página de Personificação**
 - **Indicadores**: Moda de renda e dispositivo predominante.  
 - **Gráficos utilizados**:  
   - Gráfico de colunas (faixa de renda por idade)  
@@ -89,7 +93,7 @@ AVERAGE('Sheet1'[ParticipariaNumerico]) * 100
 
 ---
 
-### 3️⃣ **Página de Avaliação**
+#### 3️⃣ **Página de Avaliação**
 - **Indicadores**: Total de respondentes, média geral e nível de avaliação do formulário de pesquisa.  
 - **Gráficos utilizados**:  
   - Gráfico de radar (Média por quesito)  
@@ -104,7 +108,7 @@ AVERAGE('Sheet1'[ParticipariaNumerico]) * 100
 
 ---
 
-## 🧩 Recursos Utilizados
+### 🧩 Recursos Utilizados
 - **Power BI Desktop** (modelagem e visualização)  
 - **Métricas DAX personalizadas**  
 - **Segmentadores dinâmicos** (idade, profissão, curso e dispositivo)  
